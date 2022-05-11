@@ -1,6 +1,10 @@
 # Sobre o projeto
 O objetivo desse projeto simples é exibir em um mapa do OpenStreetMapa localização das escolas e universidades da cidade do Rio de Janeiro (Brasil). Aqui será usado Leaflet (plugin MakerCluster) integrado com OpenStreetMap.
 
+Aqui tem uma imagem do projeto:
+
+![Imagem do proejto](img/project_image.png)
+
 # Dados
 Os dados da localização e descrição das escolas e univerdades do Rio de Janeiro fora obtidas no site do Overpass. Pode ser encontrado no seguinte link: https://overpass-turbo.eu/.
 
